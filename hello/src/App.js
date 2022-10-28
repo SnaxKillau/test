@@ -9,9 +9,7 @@ import Sample from "./Sample";
 function App() {
   return (
     <div>
-       
-      <Sample></Sample>
-      <Navbar></Navbar>
+     
      
     </div>
   );
