@@ -1,0 +1,18 @@
+.menu_bar{
+    position: relative;
+    left: 85% ;
+}
+
+
+.nav_link{
+    font-family: 'Inter', sans-serif !important;
+    font-size: small !important; 
+    color: #52586B !important;
+    transition: all 0.5s !important;
+    
+}
+.nav_link:hover{
+    border-bottom: 2px solid #A1454D ;
+    transform: scale(1.2);
+
+}
